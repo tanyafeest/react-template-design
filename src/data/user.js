@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Senior Front-end developer",
 		description:
-			"Hel",
+			"Heldddddd",
 	},
 
 	about: {
