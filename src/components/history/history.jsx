@@ -6,7 +6,7 @@ import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 import "./style/history.css";
 
 const History = (props) => {
-	const { date, title, description, link } = props;
+	const { date, title, description, link, company } = props;
 
 	return (
 		<React.Fragment>
@@ -15,7 +15,9 @@ const History = (props) => {
 					<div className="article-right-side">
 						<div className="article-title">{title}</div>
 						<div className="article-date">{date}</div>
+						<div>{company}</div>
 						<div className="article-description">{description}</div>
+						
 					</div>
 				</Link>
 			</div>

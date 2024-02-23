@@ -133,16 +133,17 @@ const About = () => {
 					</div>
 					<div className="homepage-after-title">
 							<div className="homepage-articles">
-								{myHistory.map((histtory, index) => (
+								{myHistory.map((history, index) => (
 									<div
 										className="homepage-article"
 										key={(index + 1).toString()}
 									>
 										<History
 											key={(index + 1).toString()}
-											title={histtory().title}
-											date={histtory().date}
-											description={histtory().description}
+											title={history().title}
+											company = {history().company}
+											date={history().date}
+											description={history().description}
 											link={"/history/" + (index + 1)}
 										/>
 									</div>

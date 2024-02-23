@@ -44,7 +44,9 @@ const History = () => {
 						<div className="title articles-title">
 							{INFO.articles.title}
 						</div>
-
+						<div className="subtitle articles-subtitle">
+							{INFO.articles.description}
+						</div>
 						<div className="subtitle articles-subtitle">
 							{INFO.articles.description}
 						</div>

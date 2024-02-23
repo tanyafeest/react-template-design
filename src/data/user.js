@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
-		title: "Tomas John",
-		name: "Mr. Tomas John",
-		email: "dirimandara@outlook.com",
+		title: "Albert Thomson",
+		name: "Mr. Albert Thomson",
+		email: "elizabethanna231@outlook.com",
 		logo: "./logo.png",
 	},
 
@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Senior Front-end developer",
+		title: "Senior Full-Stack developer",
 		description:
-			"Heldddddd",
+			"I have worked in web development for nearly 8 years as a Full Stack developer.	Contributing to web development projects and overcoming both personal and professional challenges have only further motivated me to continue pursuing my career goals within the software development industry. This journey has also taught me to believe and be kind to my self, anything is possible with time and dedication. I can’t wait to see where this road take me and I wouldn’t have it any other way!	When I’m not on the job, I love hiking with my dog, working my way through every recipe in the family cookbook, and indulging my love for seeing new places",
 	},
 
 	about: {
