@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
-		title: "Albert Thomson",
-		name: "Mr. Albert Thomson",
-		email: "elizabethanna231@outlook.com",
+		title: "David Zhon",
+		name: "Mr. David Zhon",
+		email: "robertjank22@outlook.com",
 		logo: "./logo.png",
 	},
 
@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Senior Full-Stack developer",
+		title: "Full Stack Specialist",
 		description:
-			"I have worked in web development for nearly 8 years as a Full Stack developer.	Contributing to web development projects and overcoming both personal and professional challenges have only further motivated me to continue pursuing my career goals within the software development industry. This journey has also taught me to believe and be kind to my self, anything is possible with time and dedication. I can’t wait to see where this road take me and I wouldn’t have it any other way!	When I’m not on the job, I love hiking with my dog, working my way through every recipe in the family cookbook, and indulging my love for seeing new places",
+			"I have over 5 years of extensive experience and skills in the field of web development, as well as a deep knowledge and strong desire to learn new technologies in the web development field. I have 2 years of experience as a freelancer and 2 years of experience working in companies, during which time I participated in many projects such as web design, software development, and more. I am eagerly desiring to work at your company with my rich experience and skills, and I hope this opportunity will be another great experience for me both professionally and personally. Thank you.",
 	},
 
 	about: {
